@@ -1,0 +1,1 @@
+Show the build status while opening or reloading the ide 
