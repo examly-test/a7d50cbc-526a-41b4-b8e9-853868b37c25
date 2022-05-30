@@ -2,4 +2,4 @@
 
 this is the commit master 
 
-this test commot for 
+this test commit for only master 
